@@ -1,0 +1,60 @@
+table{
+    margin: auto;
+    
+}
+.cari{margin-left: 20px;
+    
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+td{
+    width: 150px;
+ 
+}
+.act{
+    text-align: center;
+}
+.alas{
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    width: 1000px;
+    margin: auto;
+    margin-top:40px ;
+
+}
+.dlink{
+    margin: auto;
+    width: 200px;
+    height: 30px;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 20px;
+}
+.dlink:hover{
+    background-color: blue;
+}
+.link{color: black;}
+a{
+    text-decoration: none;
+    color: yellow;
+    ;
+
+}
+a:hover{
+    color: red;
+    text-transform: uppercase;
+}
+select{
+    width: 176px;
+    height: 30px;
+}
+
+.cari{
+    font-size: small;
+    text-transform: uppercase;
+}
